@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jpmgms
+- 👀 I’m interested in embedded systems, ethereum smart contracts, kubernetes and observability platforms - yes, I'm interested in a lot of different areas!
+- 🌱 I’m currently learning smart contracts and mainnet, bsc deployment.
+- 💞️ I’m looking to collaborate on blockchain projects - send me an email joao.gomes@frontierconsulting.io
